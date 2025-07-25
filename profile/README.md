@@ -1,4 +1,4 @@
-[日本語 (Japanese)](./README.ja.md)
+[日本語 (Japanese)](./README_ja.md)
 
 # Welcome to HSEARL
 
@@ -26,6 +26,17 @@ Thank you for your interest in HSEARL. We welcome participation from the communi
 
 1.  **First, try it out**: Get started by experimenting with the HSEARL libraries and prompts to see what it's all about.
 2.  **Join the discussion**: After you've had a chance to try it, we'd love for you to join our discussions. Your feedback and ideas will help move the project forward.
+
+## Community Guidelines
+
+To ensure a safe and collaborative environment, we have established the following guidelines. These apply to the entire organization.
+
+-   **[CODE_OF_CONDUCT.md](/.github/blob/main/CODE_OF_CONDUCT.md):**
+    Defines the rules for respectful interaction among project participants. Essential for maintaining a healthy community.
+-   **[CONTRIBUTING.md](/.github/blob/main/CONTRIBUTING.md):**
+    Describes how to report bugs, submit pull requests, and set up a development environment. This improves the quality of contributions.
+-   **[SECURITY.md](/.github/blob/main/SECURITY.md):**
+    Explains how to report security vulnerabilities. This prevents the inadvertent public disclosure of vulnerabilities.
 
 ## Governance and Ownership
 
