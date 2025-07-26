@@ -1,4 +1,4 @@
-[日本語 (Japanese)](./README_ja.md)
+[日本語 (Japanese)](./README.ja.md)
 
 # Welcome to HSEARL
 
